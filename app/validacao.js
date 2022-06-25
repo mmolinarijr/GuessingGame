@@ -35,7 +35,7 @@ function chuteForInvalido(numero) {
     return Number.isNaN(numero);
 };
 
-function numeroForMaiorOuMenorQueOValorPermitido(numero){
+function numeroForMaiorOuMenorQueOValorPermitido(numero) {
     return numero > maiorValor || numero < menorValor;
 };
 
