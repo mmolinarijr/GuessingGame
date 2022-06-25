@@ -6,3 +6,5 @@
 
 - Use Google Chrome!
 - Only Portuguese Brazil language recognition.
+
+**Available at https://guessing-game-pi.vercel.app**
